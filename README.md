@@ -1,3 +1,7 @@
+
+
+<img align="center" width="1000" height="300" src="https://user-images.githubusercontent.com/107105296/196093862-16228167-202f-49ce-b4b0-9963e2dca07b.gif" alt="oanhmimi" />
+
 <h1 align="center">Hi 👋, My name is Mimi Ly!</h1>
 <h3 align="center">I am a Full Stack Software Engineer with a passion for building well-designed systems and impactful products to enhance user experience</h3>
 
