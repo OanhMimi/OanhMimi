@@ -19,7 +19,7 @@
 
 - 💞️ I’m looking to collaborate on **Open Source**
 
-- ⚡ Fun fact: I love to take my dog on long walks and doodle on my ipad](I love to take my dog on long walks and doodle on my ipad
+- ⚡ Fun fact: I love to take my dog on long walks and doodle on my ipad
 
 - 👨‍💻 All of my projects are available at **[portfolio Link]**
 
