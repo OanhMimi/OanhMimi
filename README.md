@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in **finding creativity in software**
 
-- 📫 How to reach me: **Email me directly at lyoanhmymimi@gmail.com**
+- 📫 How to reach me: **Email me directly at <a href="mailto:lyoanhmymimi@gmail.com">lyoanhmymimi@gmail.com**</a>
 
 - 🌱 I’m currently deepening my understanding on **Data Structures and Algorithms**
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I love to take my dog on long walks and doodle on my ipad
 
-- 👨‍💻 All of my projects are available at **[portfolio Link]**
+- 👨‍💻 All of my projects are available at **[portfolio Link](https://oanhmimi.github.io/Portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,19 +35,4 @@
 
 <p><img width="230" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oanhmimi&show_icons=true&locale=en&layout=compact" alt="oanhmimi" /></p><p><img width="280" align="left" src="https://github-readme-stats.vercel.app/api?username=oanhmimi&show_icons=true&locale=en" alt="oanhmimi" /></p>
 <p><img width="280" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oanhmimi&" alt="oanhmimi" /></p>
-
-
-## Check out my projects! 
-
-* [GameBuddy](https://gamebuddy-app.herokuapp.com/)
-
-<a href="https://gamebuddy-app.herokuapp.com/"><img width="350" alt="gameBuddySplash" src="https://user-images.githubusercontent.com/107105296/196069419-c11cf8c6-0487-4de3-ad06-a9079fd6b383.png"></a> 
-
-* [FunElephant](https://funelephant.herokuapp.com)
-
-<a href="https://funelephant.herokuapp.com/"><img width="315" alt="funElephantSplashPage" src="https://user-images.githubusercontent.com/107105296/196086385-9254a02e-9d80-4673-8c1a-d65df3eec0db.png"></a> 
-
-* [eSunny](https://oanhmimi.github.io/eSunny/)
-
-<a href="https://oanhmimi.github.io/eSunny/"><img width="305" alt="eSunnySplash" src="https://user-images.githubusercontent.com/107105296/196086273-c940cb94-7498-4893-8df7-b1bb80819b22.png"></a>
 
