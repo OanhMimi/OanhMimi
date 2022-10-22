@@ -15,11 +15,11 @@
 
 - 📫 How to reach me: **Email me directly at <a href="mailto:lyoanhmymimi@gmail.com">lyoanhmymimi@gmail.com**</a>
 
-- 🌱 I’m currently deepening my understanding on **Data Structures and Algorithms**
+- 🌱 I’m currently deepening my understanding on **Data Structures and Algorithms** 
 
 - 💞️ I’m looking to collaborate on **Open Source**
 
-- ⚡ Fun fact: I love to take my dog on long walks and doodle on my ipad
+- ⚡ Fun fact: I love to take my dog on long walks and doodle on my ipad :)
 
 - 👨‍💻 All of my projects are available at **[portfolio Link](https://oanhmimi.github.io/Portfolio/)**
 
