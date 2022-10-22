@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lyoanhmymimi" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyoanhmymimi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oanh-mimi-ly" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyoanhmymimi" height="30" width="40" /></a>
 </p><a href="https://angel.co/u/mimi-ly-1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107105296/196118014-d64adb2f-ecbf-4408-a5c4-457e04ec7641.png" alt="lyoanhmymimi" height="30" width="40" /></a>
 </p>
 
