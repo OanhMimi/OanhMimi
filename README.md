@@ -1,6 +1,6 @@
 
 
-<img align="center" width="1000" height="250" src="https://user-images.githubusercontent.com/107105296/196108719-35dbd57e-3b7a-4cfd-8745-9b6a2e450b70.gif" alt="oanhmimi" />
+<img align="center" height="250" src="https://user-images.githubusercontent.com/107105296/196108719-35dbd57e-3b7a-4cfd-8745-9b6a2e450b70.gif" alt="oanhmimi" />
 
 
 <h1 align="center">Hi 👋, My name is Mimi Ly!</h1>
